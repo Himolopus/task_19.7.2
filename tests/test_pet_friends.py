@@ -2,7 +2,6 @@ from api import PetFriends
 from settings import valid_email, valid_password
 import os
 import random
-from base64 import b64encode
 
 
 class TestPetFriends:
